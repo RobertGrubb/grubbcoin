@@ -22,7 +22,7 @@ libtool
 pkg-config
 python37
 
-git clone https://github.com/grubbcoin-project/grubbcoin.git
+git clone https://github.com/RobertGrubb/grubbcoin.git
 ```
 
 See [dependencies.md](dependencies.md) for a complete overview.

@@ -7,7 +7,7 @@ and performance improvements, as well as updated translations.
 
 Please report bugs using the issue tracker at GitHub:
 
-  <https://github.com/grubbcoin-project/grubbcoin/issues>
+  <https://github.com/RobertGrubb/grubbcoin/issues>
 
 To receive security and update notifications, please subscribe to:
 

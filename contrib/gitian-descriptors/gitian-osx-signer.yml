@@ -7,7 +7,7 @@ architectures:
 packages:
 - "faketime"
 remotes:
-- "url": "https://github.com/grubbcoin-project/grubbcoin-detached-sigs.git"
+- "url": "https://github.com/RobertGrubb/grubbcoin-detached-sigs.git"
   "dir": "signature"
 files:
 - "grubbcoin-osx-unsigned.tar.gz"

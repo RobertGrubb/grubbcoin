@@ -555,7 +555,7 @@ void SetupServerArgs()
 
 std::string LicenseInfo()
 {
-    const std::string URL_SOURCE_CODE = "<https://github.com/grubbcoin-project/grubbcoin>";
+    const std::string URL_SOURCE_CODE = "<https://github.com/RobertGrubb/grubbcoin>";
     const std::string URL_WEBSITE = "<https://grubbcoin.org>";
 
     return CopyrightHolders(strprintf(_("Copyright (C) %i-%i"), 2011, COPYRIGHT_YEAR) + " ") + "\n" +

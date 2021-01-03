@@ -8,7 +8,7 @@ recommended to upgrade to this version as soon as possible.
 
 Please report bugs using the issue tracker at github:
 
-  <https://github.com/grubbcoin-project/grubbcoin/issues>
+  <https://github.com/RobertGrubb/grubbcoin/issues>
 
 Upgrading and downgrading
 =========================

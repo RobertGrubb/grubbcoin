@@ -1,7 +1,7 @@
 GrubbCoin Core integration/staging tree
 =====================================
 
-[![Build Status](https://travis-ci.org/grubbcoin-project/grubbcoin.svg?branch=master)](https://travis-ci.org/grubbcoin-project/grubbcoin)
+[![Build Status](https://travis-ci.org/RobertGrubb/grubbcoin.svg?branch=master)](https://travis-ci.org/RobertGrubb/grubbcoin)
 
 https://grubbcoin.org
 
@@ -27,7 +27,7 @@ Development Process
 -------------------
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/grubbcoin-project/grubbcoin/tags) are created
+completely stable. [Tags](https://github.com/RobertGrubb/grubbcoin/tags) are created
 regularly to indicate new official, stable release versions of GrubbCoin Core.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md)
