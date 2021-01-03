@@ -6,6 +6,7 @@
 #define BITCOIN_QT_TRAFFICGRAPHWIDGET_H
 
 #include <QWidget>
+#include <QPainterPath>
 #include <QQueue>
 
 class ClientModel;
